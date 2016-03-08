@@ -1,5 +1,5 @@
 # Project0.0_aldoous
-Project 0.0 - Aldous Galay
+Project 0.0 - John Aldous Galay - 11431768 - CpE
 
 ##Project Name: Project 0.0 "Hello World Project" 
 
